@@ -7,6 +7,7 @@ __pycache__
 .env
 myvenv/
 venv/
+quicktag/
 
 # Database
 db.sqlite3
